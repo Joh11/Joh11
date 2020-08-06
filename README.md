@@ -7,7 +7,7 @@
 
 ### Languages and tools
 - 💻 C++ | Python | Common Lisp | Haskell | C | Java
-- 🌐 HTML | CSS | PHP
+- 🌐 HTML | CSS | PHP | JS
 - 🔧 Git | Linux | Bash
 
 ### 🤝 Connect with me
