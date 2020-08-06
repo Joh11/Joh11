@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey there ! I'm Johan
 
-<!--
-**Joh11/Joh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 
+- 🎓 Physics master student at [EPFL](https://www.epfl.ch/), specializing in Condensed Matter / Computational Physics
+- () Lurking Lisper
+- 🖥 Open Source Enthusiast
 
-Here are some ideas to get you started:
+### Languages and tools
+- 💻 C++ | Python | Common Lisp | Haskell | C | Java
+- 🌐 HTML | CSS | PHP
+- 🔧 Git | Linux | Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me
+[Personal Blog](http://Joh11.github.io) | [LinkedIn](https://www.linkedin.com/in/johan-félisaz-2b0087159/)
